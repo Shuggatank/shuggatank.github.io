@@ -105,7 +105,7 @@ section#portfolio #port1 {
     display: grid;
     /* border: 1px solid red; */
     grid-template-columns: auto;
-    grid-template-rows: 300px 300px 300px 300px;
+    grid-template-rows: 250px 250px 250px 250px;
     /* height: 77%; */
 }
 section#portfolio #port1 #sample1 {
