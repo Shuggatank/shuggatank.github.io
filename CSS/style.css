@@ -107,8 +107,8 @@ section#portfolio #port1 {
     /* grid-template-columns: auto;
     grid-template-rows: 250px 250px 250px 250px; */
     /* height: 77%; */
-    grid-template-columns: repeat(8, 1fr);
-    grid-template-rows: repeat(8, 5vw);
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 10vw);
     grid-gap: 15px;
 }
 /* section#portfolio #port1 #sample1 {
